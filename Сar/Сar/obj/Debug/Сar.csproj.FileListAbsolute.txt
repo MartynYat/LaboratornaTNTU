@@ -1,0 +1,6 @@
+D:\LabaGot\LaboratornaTNTU\Laboratorna1\Сar\Сar\bin\Debug\Сar.dll
+D:\LabaGot\LaboratornaTNTU\Laboratorna1\Сar\Сar\bin\Debug\Сar.pdb
+D:\LabaGot\LaboratornaTNTU\Laboratorna1\Сar\Сar\obj\Debug\Сar.csproj.AssemblyReference.cache
+D:\LabaGot\LaboratornaTNTU\Laboratorna1\Сar\Сar\obj\Debug\Сar.csproj.CoreCompileInputs.cache
+D:\LabaGot\LaboratornaTNTU\Laboratorna1\Сar\Сar\obj\Debug\Сar.dll
+D:\LabaGot\LaboratornaTNTU\Laboratorna1\Сar\Сar\obj\Debug\Сar.pdb
