@@ -1,0 +1,12 @@
+D:\TNTU\LabaGot\LaboratornaTNTU\Laboratorna1\Laboratorna1\LabExamples\StringLibrary\bin\Debug\net8.0\StringLibrary.deps.json
+D:\TNTU\LabaGot\LaboratornaTNTU\Laboratorna1\Laboratorna1\LabExamples\StringLibrary\bin\Debug\net8.0\StringLibrary.dll
+D:\TNTU\LabaGot\LaboratornaTNTU\Laboratorna1\Laboratorna1\LabExamples\StringLibrary\bin\Debug\net8.0\StringLibrary.pdb
+D:\TNTU\LabaGot\LaboratornaTNTU\Laboratorna1\Laboratorna1\LabExamples\StringLibrary\obj\Debug\net8.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\TNTU\LabaGot\LaboratornaTNTU\Laboratorna1\Laboratorna1\LabExamples\StringLibrary\obj\Debug\net8.0\StringLibrary.AssemblyInfoInputs.cache
+D:\TNTU\LabaGot\LaboratornaTNTU\Laboratorna1\Laboratorna1\LabExamples\StringLibrary\obj\Debug\net8.0\StringLibrary.AssemblyInfo.cs
+D:\TNTU\LabaGot\LaboratornaTNTU\Laboratorna1\Laboratorna1\LabExamples\StringLibrary\obj\Debug\net8.0\StringLibrary.csproj.CoreCompileInputs.cache
+D:\TNTU\LabaGot\LaboratornaTNTU\Laboratorna1\Laboratorna1\LabExamples\StringLibrary\obj\Debug\net8.0\StringLibrary.sourcelink.json
+D:\TNTU\LabaGot\LaboratornaTNTU\Laboratorna1\Laboratorna1\LabExamples\StringLibrary\obj\Debug\net8.0\StringLibrary.dll
+D:\TNTU\LabaGot\LaboratornaTNTU\Laboratorna1\Laboratorna1\LabExamples\StringLibrary\obj\Debug\net8.0\refint\StringLibrary.dll
+D:\TNTU\LabaGot\LaboratornaTNTU\Laboratorna1\Laboratorna1\LabExamples\StringLibrary\obj\Debug\net8.0\StringLibrary.pdb
+D:\TNTU\LabaGot\LaboratornaTNTU\Laboratorna1\Laboratorna1\LabExamples\StringLibrary\obj\Debug\net8.0\ref\StringLibrary.dll
